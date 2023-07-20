@@ -8,3 +8,4 @@ usage <code>./wayback.py www.site.com 2023</code> Will search all waybacks on th
 - Add python module requirements.txt
 - Reformat and fix README.txt
 - Add commands to the script
+- Add an option to select From DATE to DATE
